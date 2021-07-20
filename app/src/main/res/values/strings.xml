@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FisioterapiaApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeFragment">Fragmento Home</string>
+    <string name="agendamentosFragment">Fragmento de Agendamentos</string>
+    <string name="agendaFragment">Fragmento de Agenda</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tv_registre_se">Entre</string>
+    <string name="hint_nome">Login</string>
+    <string name="helper_required">Obrigatório</string>
+    <string name="hint_senha">Senha</string>
+    <string name="action_1">Acessar</string>
+    <string name="action_2">Deslogar</string>
+    <string name="perfil">Perfil</string>
+    <string name="buscar">Buscar Cervejas</string>
+    <string name="listar">Tipos de Cervejas</string>
+    <string name="modoescuro">Modo Escuro</string>
+    <string name="loginsuccessfully">Login Efetuado</string>
+    <string name="cadastrar">Cadastro Realizado com sucesso</string>
+
+
+</resources>

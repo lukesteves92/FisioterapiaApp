@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666811475375",
+    "project_id": "fisioterapiaapp-9e6e8",
+    "storage_bucket": "fisioterapiaapp-9e6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666811475375:android:5d7cf5adbdc2b38a42fb5a",
+        "android_client_info": {
+          "package_name": "com.lucasesteves.fisioterapiaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666811475375-vd64upsmj8gvgg5cikm9kd0k8hgv0lat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucasesteves.fisioterapiaapp",
+            "certificate_hash": "bc8cd0c39741d35db6620df8025c6236eca3a37f"
+          }
+        },
+        {
+          "client_id": "666811475375-l58epta2luvhh3kg94j3fkkupj3dq9vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBSgCd8mYLH73D4XbNEEEep2SzlcKNftc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666811475375-l58epta2luvhh3kg94j3fkkupj3dq9vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

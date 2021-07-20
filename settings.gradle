@@ -1,0 +1,2 @@
+rootProject.name = "FisioterapiaApp"
+include ':app'
