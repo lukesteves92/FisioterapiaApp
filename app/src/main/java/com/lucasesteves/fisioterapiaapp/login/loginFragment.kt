@@ -105,10 +105,25 @@ class loginFragment : Fragment() {
 
     override fun onStart() {
         super.onStart()
-
+        var email = ""
         val currentUser = auth.currentUser
         if(currentUser != null){
-            reload();
+            currentUser.let{
+                var email = currentUser.uid
+            }
+            val bundle = Bundle()
+            with(bundle){
+                putString(KEY_USER, email)
+
+            }
+            Snackbar.make(
+                this.requireView(),
+                getString(R.string.alreadyloggedin),
+                Snackbar.LENGTH_SHORT
+            ).show()
+            findNavController().navigate(R.id.action_loginFragment_to_nav_home, bundle)
+
+
         }
     }
 

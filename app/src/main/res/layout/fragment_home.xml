@@ -114,4 +114,14 @@
         app:backgroundTint="#141A6A"
         app:icon="@drawable/plus24"/>
 
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:id="@+id/deslogar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_gravity="bottom|left"
+        android:text="Deslogar"
+        app:backgroundTint="#141A6A"
+        app:icon="@drawable/plus24"/>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

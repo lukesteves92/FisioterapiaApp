@@ -27,6 +27,7 @@
     <string name="modoescuro">Modo Escuro</string>
     <string name="loginsuccessfully">Login Efetuado</string>
     <string name="cadastrar">Cadastro Realizado com sucesso</string>
+    <string name="alreadyloggedin">Usuário já logado</string>
 
 
 </resources>
